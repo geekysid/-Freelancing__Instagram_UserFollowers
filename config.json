@@ -1,0 +1,18 @@
+{
+    "master_account": [
+        "iwonapodlasinska"
+    ],
+    "google_sheet_access_creds": "google_sheet_insta_creds_secret.json",
+    "google_sheet_number": 2,
+    "max_server_hit_count": 2000,
+    "minimum_dummy_accounts": 20,
+    "max_dummy_account": 0,
+    "max_followers_count": 0,
+    "login": false,
+    "fetch_followers_id": false,
+    "fetch_followers_data": false,
+    "convert_json_to_csv": true,
+    "mail_to": [
+        "siddhant.shah.1986@gmail.com"
+    ]
+}
